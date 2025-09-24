@@ -1,12 +1,7 @@
-faiss-cpu>=1.7.4
-sentence-transformers>=2.2.2
-pdfplumber>=0.7.6
-docx2txt>=0.8
-openai>=0.27.0
-fastapi>=0.95.0
-uvicorn>=0.22.0
-    google-generativeai>=0.0.5
-streamlit==1.26.1
-    numpy==1.25.2
-setuptools>=67.8.0
-wheel>=0.41.2
+faiss-cpu
+sentence-transformers
+pdfplumber
+
+google-generativeai
+streamlit
+numpy
